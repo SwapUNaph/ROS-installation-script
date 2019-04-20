@@ -1,3 +1,9 @@
+#!/bin/bash
+
+# Author: Swapneel Naphade
+# Date: 4/19/2019
+# Usage: Run this script to install ROS melodic full desktop version on your Linux Machine.
+
 # Update lists
 sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list';
 echo "-----------------------------------------";
