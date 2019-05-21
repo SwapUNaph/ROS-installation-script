@@ -1,6 +1,6 @@
 # ROS melodic installation script
 This script installs the complete desktop ROS melodic without hassle on your Linux machine.
-## _Note: This is still work in progress. You can contribute to it by testing and debugging the scripts.]_
+## _[Note: This is still work in progress. You can contribute to it by testing and debugging the scripts.]_
 
 ## Usage:
 ### Installing ROS-Melodic
